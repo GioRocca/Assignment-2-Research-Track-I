@@ -45,9 +45,9 @@ $ roslaunch my_assignment_2 assignment2.launch
 
 ### Flowchart ###
 
-![Flowchart](/images/node_a_client_flowchart.jpg "Flowchart of node_a_client")
+![Flowchart of node_a_client](/my_assignment_2/images/node_a_client_flowchart.jpg "Flowchart of node_a_client")
 
-![Flowchart](/images/node_a_publisher_flowchart.jpg "Flowchart of node_a_publisher")
+![Flowchart of node_a_publisher](/my_assignment_2/images/node_a_publisher_flowchart.jpg "Flowchart of node_a_publisher")
 
 
 
